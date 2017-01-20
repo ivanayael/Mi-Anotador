@@ -1,0 +1,12 @@
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\bin\Debug\Negocio.dll
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\bin\Debug\Negocio.pdb
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\bin\Debug\Negocio.xml
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\bin\Debug\Datos.dll
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\bin\Debug\Datos.pdb
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\bin\Debug\Datos.xml
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\obj\Debug\Negocio.dll
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\obj\Debug\Negocio.xml
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Negocio\obj\Debug\Negocio.pdb

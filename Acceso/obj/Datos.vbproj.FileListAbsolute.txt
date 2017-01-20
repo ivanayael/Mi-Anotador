@@ -1,0 +1,9 @@
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\bin\Debug\Datos.dll
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\bin\Debug\Datos.pdb
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\bin\Debug\Datos.xml
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\obj\Debug\Datos.Resources.resources
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\obj\Debug\Datos.dll
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\obj\Debug\Datos.xml
+C:\Documents and Settings\Familia Currá\Mis documentos\Visual Studio 2005\Projects\Mi Anotador\Acceso\obj\Debug\Datos.pdb
